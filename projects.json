@@ -1,0 +1,16 @@
+{
+  "projects": [
+    {
+      "repoName": "test",
+      "acceptedBranches": ["master"],
+      "scriptName": "test.sh",
+      "desc": "Test project to test this webhook server."
+    },
+    {
+      "repoName": "Leinad",
+      "acceptedBranches": ["master"],
+      "scriptName": "leinadDeploy.sh",
+      "desc": "Will build and deploy the vite app for my website."
+    }
+  ]
+}
